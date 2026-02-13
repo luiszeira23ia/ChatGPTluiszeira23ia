@@ -1,7 +1,8 @@
 {
-  "generatedAtUtc": "2026-02-13T12:58:26Z",
+  "generatedAtUtc": "2026-02-13T13:11:11Z",
   "totalSkills": 50,
   "bundle": "all-skills-bundle.zip",
+  "release": "skills-v1.1",
   "skills": [
     {
       "name": "ai-video-gen",
@@ -145,7 +146,7 @@
       "name": "github",
       "category": "Dev / Engenharia",
       "description": "Work with GitHub repositories, issues, pull requests, labels, releases, and project hygiene using fast CLI-first workflows. Use when asked to inspect repos, create/update issues/PRs, review diffs, comment, triage backlog, or summarize GitHub activity.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "name": "google-gemini-media",
@@ -205,7 +206,7 @@
       "name": "n8n-automation",
       "category": "Automação / n8n / Integrações",
       "description": "Design and operate n8n workflow automations with triggers, branching logic, retries, and operational guardrails. Use when asked to build automations, map event-driven flows, or standardize workflow reliability.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "name": "n8n-hub",
@@ -217,7 +218,7 @@
       "name": "n8n-rest",
       "category": "Automação / n8n / Integrações",
       "description": "Build and debug REST-style integrations inside n8n using HTTP Request nodes, auth patterns, and response handling. Use when asked to connect APIs, map request/response schemas, handle pagination, or troubleshoot REST node failures.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "name": "nano-banana-pro",
@@ -247,7 +248,7 @@
       "name": "ops-diagnose",
       "category": "Infra / Ops / Segurança",
       "description": "Diagnose infrastructure and service issues with fast, structured operational checks. Use when asked to investigate downtime, high resource usage, failing services, networking issues, logs, or incident triage on Linux hosts.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "name": "powerpoint-creator",
@@ -289,7 +290,7 @@
       "name": "smooth-browser",
       "category": "Dev / Engenharia",
       "description": "Run smooth, reliable browser automations with stable refs, minimal flakiness, and human-like step sequencing. Use when asked to automate web tasks that require robust navigation, controlled interactions, snapshots, and repeatable verification flows.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "name": "sonhar",
@@ -301,7 +302,7 @@
       "name": "sql-dba",
       "category": "Dados / BI / Planilhas",
       "description": "Design, debug, and optimize SQL/database workflows for PostgreSQL and MySQL with safe operational checks. Use when asked to write complex queries, improve performance, analyze execution plans, design schemas/indexes, troubleshoot slow queries, or plan safe migration and maintenance steps.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ]
 }

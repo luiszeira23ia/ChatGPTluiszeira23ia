@@ -1,6 +1,7 @@
 # Skills Manifest
 
-- Generated (UTC): `2026-02-13T12:58:26Z`
+- Release: `skills-v1.1`
+- Generated (UTC): `2026-02-13T13:11:11Z`
 - Total skills: **50**
 - Bundle: `all-skills-bundle.zip`
 
@@ -9,9 +10,9 @@
 - **basecamp-automation** (`v1.0.0`): Automate Basecamp-oriented project routines such as to-do planning, status check-ins, milestone tracking, and update message preparation. Use when asked to standardize team updates, convert notes into action items, or generate recurring project-ops workflows.
 - **imap-email** (`v1.0.0`): Work with IMAP email workflows for inbox reads, filtering, triage, and automation-safe parsing. Use when asked to inspect mailboxes, classify emails, extract action items, or build IMAP-based routines.
 - **n8n-api** (`v1.0.0`): Work with n8n API endpoints for workflows, executions, credentials, and automation control. Use when asked to query n8n resources, trigger workflows, inspect runs, or build API-based management scripts.
-- **n8n-automation** (`v1.0.0`): Design and operate n8n workflow automations with triggers, branching logic, retries, and operational guardrails. Use when asked to build automations, map event-driven flows, or standardize workflow reliability.
+- **n8n-automation** (`v1.1.0`): Design and operate n8n workflow automations with triggers, branching logic, retries, and operational guardrails. Use when asked to build automations, map event-driven flows, or standardize workflow reliability.
 - **n8n-hub** (`v1.0.0`): Organize n8n workflow libraries and reusable patterns (templates, naming, versioning, governance). Use when asked to curate a workflow hub, standardize naming/ownership, and improve automation reuse across teams.
-- **n8n-rest** (`v1.0.0`): Build and debug REST-style integrations inside n8n using HTTP Request nodes, auth patterns, and response handling. Use when asked to connect APIs, map request/response schemas, handle pagination, or troubleshoot REST node failures.
+- **n8n-rest** (`v1.1.0`): Build and debug REST-style integrations inside n8n using HTTP Request nodes, auth patterns, and response handling. Use when asked to connect APIs, map request/response schemas, handle pagination, or troubleshoot REST node failures.
 
 ## Comunicação / Comunidade
 
@@ -39,7 +40,7 @@
 - **analista-de-dados** (`v1.0.0`): Analyze datasets and metrics with practical statistical summaries, KPI framing, and insight generation. Use when asked to explore data, identify trends/anomalies, build analytical summaries, or propose decisions from data.
 - **excel** (`v1.0.0`): Create and manipulate Excel-oriented workflows for tabular analysis, formulas, cleaning, and reporting prep. Use when asked to organize spreadsheets, apply formulas, clean data, or prepare shareable Excel outputs.
 - **excel-weekly-dashboard** (`v1.0.0`): Build weekly Excel dashboard structures with KPI blocks, trends, and executive-ready summaries. Use when asked to prepare recurring weekly dashboards, status sheets, or visual KPI trackers in Excel.
-- **sql-dba** (`v1.0.0`): Design, debug, and optimize SQL/database workflows for PostgreSQL and MySQL with safe operational checks. Use when asked to write complex queries, improve performance, analyze execution plans, design schemas/indexes, troubleshoot slow queries, or plan safe migration and maintenance steps.
+- **sql-dba** (`v1.1.0`): Design, debug, and optimize SQL/database workflows for PostgreSQL and MySQL with safe operational checks. Use when asked to write complex queries, improve performance, analyze execution plans, design schemas/indexes, troubleshoot slow queries, or plan safe migration and maintenance steps.
 
 ## Dev / Engenharia
 
@@ -47,10 +48,10 @@
 - **clawbrowser** (`v1.0.0`): Automate browser-based tasks with OpenClaw browser tools for navigation, UI interaction, snapshots, and quick web workflows. Use when asked to click/type through web apps, inspect page state, capture screenshots, or perform repeatable browser checks.
 - **clawdiscover** (`v1.0.0`): Discover and map tools, services, and workspace context with fast reconnaissance workflows. Use when asked to inventory capabilities, locate relevant files/endpoints, or produce a structured discovery summary before implementation.
 - **debug-pro** (`v1.0.0`): Systematic debugging workflow for apps, scripts, and services. Use when asked to investigate errors, reproduce bugs, isolate root causes, inspect logs/traces, compare expected vs actual behavior, and propose safe fixes with verification steps.
-- **github** (`v1.0.0`): Work with GitHub repositories, issues, pull requests, labels, releases, and project hygiene using fast CLI-first workflows. Use when asked to inspect repos, create/update issues/PRs, review diffs, comment, triage backlog, or summarize GitHub activity.
+- **github** (`v1.1.0`): Work with GitHub repositories, issues, pull requests, labels, releases, and project hygiene using fast CLI-first workflows. Use when asked to inspect repos, create/update issues/PRs, review diffs, comment, triage backlog, or summarize GitHub activity.
 - **python** (`v1.0.0`): Build, run, and debug Python scripts and utilities with practical project-oriented workflows. Use when asked to write Python code, refactor scripts, parse data files, automate repetitive tasks, troubleshoot exceptions, or structure small Python tools.
 - **senior-fullstack** (`v1.0.0`): End-to-end fullstack engineering workflow for architecture, implementation, debugging, and delivery across frontend, backend, and data layers. Use when asked for holistic feature development, cross-layer troubleshooting, or production-readiness reviews.
-- **smooth-browser** (`v1.0.0`): Run smooth, reliable browser automations with stable refs, minimal flakiness, and human-like step sequencing. Use when asked to automate web tasks that require robust navigation, controlled interactions, snapshots, and repeatable verification flows.
+- **smooth-browser** (`v1.1.0`): Run smooth, reliable browser automations with stable refs, minimal flakiness, and human-like step sequencing. Use when asked to automate web tasks that require robust navigation, controlled interactions, snapshots, and repeatable verification flows.
 
 ## Infra / Ops / Segurança
 
@@ -59,7 +60,7 @@
 - **deploy-checklist** (`v1.0.0`): Run safe deployment checklists with pre-check, rollout, verification, and rollback planning. Use when asked to prepare or execute deploys, confirm readiness, reduce risk, or standardize release steps.
 - **dns-networking** (`v1.0.0`): Diagnose DNS and network connectivity issues with structured checks for resolution, routing, latency, ports, and TLS endpoints. Use when asked to troubleshoot domain resolution failures, service reachability, packet loss, timeout errors, or network-path anomalies on Linux hosts.
 - **incident-response** (`v1.0.0`): Triage and coordinate incident response with severity, timeline, mitigation, and comms structure. Use when asked to handle outages, degraded services, security events, or urgent production incidents.
-- **ops-diagnose** (`v1.0.0`): Diagnose infrastructure and service issues with fast, structured operational checks. Use when asked to investigate downtime, high resource usage, failing services, networking issues, logs, or incident triage on Linux hosts.
+- **ops-diagnose** (`v1.1.0`): Diagnose infrastructure and service issues with fast, structured operational checks. Use when asked to investigate downtime, high resource usage, failing services, networking issues, logs, or incident triage on Linux hosts.
 
 ## Mídia / Vídeo / Avatar / Voz
 
