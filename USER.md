@@ -3,9 +3,12 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:**
+  Luiszeira
 - **What to call them:**
+  Luiszeira
 - **Pronouns:** _(optional)_
 - **Timezone:**
+  GMT-3 (Brasil – São Paulo/SP)
 - **Notes:**
   - Prefere conversar em português.
 
